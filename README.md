@@ -1,5 +1,5 @@
 # salousol
-count sunny days in some location
+##count sunny days in some location
 Counting sunny days in a specific location using Python involves several steps, including obtaining weather data for the location and then analyzing that data to count the number of sunny days. Here is a general approach:
 
 1. **Choose a Weather Data Source**: You will need a reliable source of weather data. This could be an online weather API like OpenWeatherMap, Weatherstack, or the API provided by a national meteorological service.
